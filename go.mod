@@ -3,13 +3,13 @@ module github.com/godevsig/ghub
 go 1.18
 
 require (
-	github.com/godevsig/adaptiveservice v0.9.24-0.20230329141516-d104c403854d
-	github.com/godevsig/glib v0.0.0-20230817010609-1c103efadb00
-	github.com/godevsig/grepo v0.2.2-0.20230817095114-27db7b374d02
+	github.com/godevsig/adaptiveservice v0.9.25
+	github.com/godevsig/glib v0.1.1
+	github.com/godevsig/grepo v0.2.4
 )
 
 require (
-	github.com/barkimedes/go-deepcopy v0.0.0-20200817023428-a044a1957ca4 // indirect
+	github.com/barkimedes/go-deepcopy v0.0.0-20220514131651-17c30cfc62df // indirect
 	github.com/go-echarts/go-echarts/v2 v2.2.7 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/niubaoshu/gotiny v0.0.3 // indirect

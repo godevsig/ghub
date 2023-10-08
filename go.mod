@@ -3,9 +3,9 @@ module github.com/godevsig/ghub
 go 1.18
 
 require (
-	github.com/godevsig/adaptiveservice v0.10.4
-	github.com/godevsig/glib v0.1.1
-	github.com/godevsig/grepo v0.2.4
+	github.com/godevsig/adaptiveservice v0.10.5
+	github.com/godevsig/glib v0.1.2-0.20230830021401-ee447d68739c
+	github.com/godevsig/grepo v0.2.5-0.20231008100713-7051f5080828
 )
 
 require (
